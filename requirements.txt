@@ -1,0 +1,7 @@
+flask
+Werkzeug
+jinja2
+pure-python-adb
+Flask-SocketIO
+gitpython
+protobuf
